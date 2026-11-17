@@ -3,7 +3,7 @@
 **Engineering Manager | Cloud & Platform Engineering | Performance & Reliability**
 Porto, Portugal 🇵🇹
 
-I've spent 20+ years building and running infrastructure at scale, from data centres to cloud platforms serving millions of users, at companies like Farfetch and Blip (Flutter / FanDuel Group). I lead platform teams that make engineers faster and systems more reliable, and I still enjoy getting my hands dirty with code.
+I've spent 20+ years building and running infrastructure at scale, from data centres to cloud platforms serving millions of users, at companies like Farfetch and Blip (Flutter / FanDuel Group). I lead platform & infrastracture teams that make engineers faster and systems more reliable, and I still enjoy getting my hands dirty with code.
 
 ### What I care about
 
